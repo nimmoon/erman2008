@@ -9,7 +9,6 @@
 
 * Persian, Fully ☺️
 * English, Medium 😏
-* German, Very Weak 😩
 
 
 ### Connect with me :
