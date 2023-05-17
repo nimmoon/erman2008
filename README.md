@@ -1,35 +1,35 @@
-# Hi 👋, I'm Erman.
-## I'm not a Human 👨, I'm not a Bot 🤖, I'm Erman !💪
+# Hi 👋, I'm Prograpper.
   
-### I live in : 🇮🇷
-
 ### Date of birth : 2008/08/07
 
 ### language :
 
 * Persian, Fully ☺️
 * English, Medium 😏
+* German, Learning 😎
 
 
 ### Connect with me :
 
-* [E-mail](https://mail.google.com/mail/) : ***ermanzero2008@gmail.com***
-
-* [Matrix](https://matrix.org/) : ***@erman-tech:mozilla.org***
+* E-mail : ***ermanzero2008@gmail.com***
+ 
+ * ![Telegram](https://github.com/erman2008/erman2008/blob/main/a/Telegram.png)
+ 
+ * [Instagram](https://instagram.com/mehrvand_ff)
  
 ### My Website :
 Preparing ...
 
 
 ### Oprating System :
-[Manjaro Linux](https://manjaro.org) with [GNOME](https://gnome.org)
+[Manjaro Linux](https://manjaro.org) with [Sway WM](https://swaywm.org)
 
 
 ### Work Environment :
 Home
 
 
-### Devices
+### Devices used for Testing :
 Laptop : ASUS TUF Gaming F17 FX706HEB_FX706HEB 1.0
 
 Mobile : Samsung Galaxy J3 Pro (j3y17lte)
@@ -37,7 +37,7 @@ Mobile : Samsung Galaxy J3 Pro (j3y17lte)
 Mobile : Samsung Galaxy A21s
 
 
-### Programming Language & Tools
+### Programming Language
 
 [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
 
@@ -52,28 +52,3 @@ Mobile : Samsung Galaxy A21s
 
 
 [C++](https://en.wikipedia.org/wiki/C++)
-
-
-[Go](https://en.wikipedia.org/wiki/Go_(programming_language))
-
-
-[JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-
-
-[Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
-
-
-[Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
-
-
-[PHP](https://en.wikipedia.org/wiki/PHP)
-
-
-[HTML](https://en.wikipedia.org/wiki/HTML)
-
-
-[CSS](https://en.wikipedia.org/wiki/CSS)
-
-
-
-#### And many other tools and frameworks that lead to a long list ...
