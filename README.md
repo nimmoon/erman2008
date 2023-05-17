@@ -13,7 +13,7 @@
 
 * E-mail : ***ermanzero2008@gmail.com***
  
- * ![Telegram](https://github.com/erman2008/erman2008/blob/main/a/Telegram.png)
+ * ![Telegram](https://github.com/erman2008/erman2008/blob/main/a/Telegram.svg)
  
  * [Instagram](https://instagram.com/mehrvand_ff)
  
