@@ -11,18 +11,14 @@
 
 ### Connect with me :
 
-[![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)
+[![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![Matrix](https://github.com/erman2008/erman2008/blob/main/a/element.svg)](https://matrix.to/#/@erman:envs.net)
  
 ### My Website :
 Preparing ...
 
 
 ### Oprating System :
-[Garuda Linux](https://garudalinux.org) with [KDE Plasma](https://kde.org)
-
-
-### Work Environment :
-Home
+I'm currently on [![Garuda Linux](https://github.com/erman2008/erman2008/blob/main/a/garuda.svg)](https://garudalinux.org) with [![KDE Plasma desktop](https://github.com/erman2008/erman2008/blob/main/a/plasma.svg)](https://kde.org), but I'll switch to that once BargOS is released.
 
 
 ### Devices used for Testing :
