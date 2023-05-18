@@ -11,22 +11,22 @@
 
 ### Connect with me :
 
-[![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![Matrix](https://github.com/erman2008/erman2008/blob/main/a/element.svg)](https://matrix.to/#/@erman:envs.net)
+[![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![Matrix](https://github.com/erman2008/erman2008/blob/main/a/matrix.svg)](https://matrix.to/#/@erman:envs.net)
  
 ### My Website :
 Preparing ...
 
 
 ### Oprating System :
-I'm currently on [![Garuda Linux](https://github.com/erman2008/erman2008/blob/main/a/garuda.svg)](https://garudalinux.org) with [![KDE Plasma desktop](https://github.com/erman2008/erman2008/blob/main/a/plasma.svg)](https://kde.org), but I'll switch to that once BargOS is released.
+I'm currently on [Garuda Linux](https://garudalinux.org) with [Plasma desktop](https://kde.org), but I'll switch to that once BargOS is released.
 
 
 ### Devices used for Testing :
-Laptop : ASUS TUF Gaming F17
+💻 : ASUS TUF Gaming F17
 
-Mobile : Samsung Galaxy J3 Pro (it's now breaked, because I wanted to flash LineageOS on it 😅)
+📱 : Samsung Galaxy J3 Pro (it's now breaked, because I wanted to flash LineageOS on it 😅)
 
-Mobile : Samsung Galaxy A21s
+📱 : Samsung Galaxy A21s
 
 
 ### Programming Language
