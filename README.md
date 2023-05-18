@@ -4,25 +4,25 @@
 
 ### language :
 
-* Persian, Fully ☺️
-* English, Medium 😏
-* German, Learning 😎
+* 🇮🇷 Persian, Fully ☺️
+* 🇺🇸 English, Medium 😏
+* 🇩🇪 German, Learning 😎
 
 
 ### Connect with me :
 
-* E-mail : ***ermanzero2008@gmail.com***
+* [![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](ermanzero2008@gmail.com)
  
- * ![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)
+ * [![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)
  
- * [Instagram](https://instagram.com/mehrvand_ff)
+ * [![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)
  
 ### My Website :
 Preparing ...
 
 
 ### Oprating System :
-[Manjaro Linux](https://manjaro.org) with [Sway WM](https://swaywm.org)
+[Garuda Linux](https://garudalinux.org) with [KDE Plasma](https://kde.org)
 
 
 ### Work Environment :
@@ -30,9 +30,9 @@ Home
 
 
 ### Devices used for Testing :
-Laptop : ASUS TUF Gaming F17 FX706HEB_FX706HEB 1.0
+Laptop : ASUS TUF Gaming F17
 
-Mobile : Samsung Galaxy J3 Pro (j3y17lte)
+Mobile : Samsung Galaxy J3 Pro (it's now breaked, because I wanted to flash LineageOS on it 😅)
 
 Mobile : Samsung Galaxy A21s
 
