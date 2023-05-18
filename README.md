@@ -11,11 +11,7 @@
 
 ### Connect with me :
 
-* [![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)
- 
-/ * [![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)
- 
- * [![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)
+[![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)   [![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)   [![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)
  
 ### My Website :
 Preparing ...
