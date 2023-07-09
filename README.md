@@ -14,11 +14,11 @@
 [![Telegram](https://github.com/erman2008/erman2008/blob/main/a/telegram.svg)](https://t.me/Prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![E-mail](https://github.com/erman2008/erman2008/blob/main/a/email.svg)](mailto:ermanzero2008@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/erman2008/erman2008/blob/main/a/instagram.svg)](https://instagram.com/prograpper)&nbsp;&nbsp;&nbsp;&nbsp;[![Matrix](https://github.com/erman2008/erman2008/blob/main/a/matrix.svg)](https://matrix.to/#/@erman:envs.net)
  
 ### My Website :
-Preparing ...
+available at erman2008.github.io
 
 
 ### Oprating System :
-I'm currently on [Garuda Linux](https://garudalinux.org) with [Plasma desktop](https://kde.org), but I'll switch to that once BargOS is released.
+I'm currently on [EndeavourOS](https://endeavouros.com) with [xfce desktop](https://xfce.org), but I'll switch to that once BargOS is released.
 
 
 ### Devices used for Testing :
@@ -31,16 +31,8 @@ I'm currently on [Garuda Linux](https://garudalinux.org) with [Plasma desktop](h
 
 ### Programming Language
 
-[Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
+##### Dart
 
+##### C
 
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
-
-
-[C](https://en.wikipedia.org/wiki/C_(programming_language))
-
-
-[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-
-
-[C++](https://en.wikipedia.org/wiki/C++)
+##### Bash
